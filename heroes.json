@@ -1,0 +1,54 @@
+{
+  "heroes": [
+    {
+      "id": "cf345dae-7e3d-47f1-a431-0a4c48c408fc",
+      "name": "Water",
+      "description": "Power of water man",
+      "element": "water"
+    },
+    {
+      "id": "e7a1e5ef-f073-48b6-9025-a383cd0e9787",
+      "name": "Wind",
+      "description": "Wind power kid",
+      "element": "wind"
+    },
+    {
+      "id": "dba64bc1-e71f-4fc7-a604-35896aff2597",
+      "name": "Fire",
+      "description": "Power of Fire men",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+		"name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+		"name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+		"name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+		"name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+		"name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
